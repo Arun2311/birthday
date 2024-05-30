@@ -13,6 +13,8 @@ export default function UseREF() {
         <h1>Arun</h1>
         <input ref={vig}/>
         <input/>
+
+        <button>Arunnnnnnn</button>
     </div>
 
   )
