@@ -7,7 +7,12 @@ import React, { Component } from 'react'
         <h1>About</h1>
         contact:{this.props.PHONE}   ,,<br/>   
         
-          {this.props.TIME}
+          {this.props.TIME}cv
+          cv
+          zdvcdskjfewlkjdnsx zda
+          's;dkfhusdackndsmknds
+          'fsdjkgfsduhfm,dkfhusdackndsmknds
+          fdklfhsdfjkdskjf
         
       </div>
     )
